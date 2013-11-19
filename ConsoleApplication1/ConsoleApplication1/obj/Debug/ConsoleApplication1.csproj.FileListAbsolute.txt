@@ -1,0 +1,6 @@
+H:\Programmēšanas praktikums\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\Programmēšanas praktikums\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\Programmēšanas praktikums\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\Programmēšanas praktikums\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+H:\Programmēšanas praktikums\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\Programmēšanas praktikums\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
